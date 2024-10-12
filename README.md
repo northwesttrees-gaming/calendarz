@@ -3,6 +3,9 @@
 # 📆 CALENDARZ
 Adds calendars and customizable events to the game.
 
+# 📌 USAGE
+Requires both servers and players to have the mod installed for this mod to work.
+
 ## ⚖ LICENSE
 This mod is property of NorthWestTrees (Kieran Martin) and marked as all right's reserved.
 ### ✔ What's Fine
