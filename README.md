@@ -12,6 +12,15 @@ Scroll down for a full feature list and see how Calendarz can transform your Min
 # 📌 USAGE
 Requires both servers and players to have the mod installed for this mod to work.
 
+# 🔗 SITES & PAGES
+### 🔗 MOD SITES
+- [Calendarz - CurseForge](https://www.curseforge.com/minecraft/mc-mods/calendarz)
+- [Calendarz - MCreator](https://mcreator.net/modification/110754/calendarz)
+- [Calendarz - Modrinth](https://modrinth.com/mod/calendarz)
+### 📑 GITHUB PAGES
+- [Issue Tracker](https://github.com/northwesttrees-gaming/calendarz/issues)
+- [Mod Wiki](https://github.com/northwesttrees-gaming/calendarz/wiki)
+
 ## ⚖ LICENSE
 This mod is property of NorthWestTrees (Kieran Martin) and marked as all right's reserved.
 ### ✔ What's Fine
