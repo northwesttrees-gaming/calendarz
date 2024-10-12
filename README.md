@@ -1,4 +1,4 @@
-![Calendar](https://github.com/user-attachments/assets/6ff6fe73-e615-4aa8-9c56-0def3a64cec6)
+![image](https://github.com/user-attachments/assets/8f4da08f-40ba-4f3d-b53f-d4369e8f3ff8)
 
 # 📆 CALENDARZ
 Adds calendars and customizable events to the game.
@@ -45,3 +45,6 @@ This mod is property of NorthWestTrees (Kieran Martin) and marked as all right's
 ### 🐞 KNOWN ISSUES
 - Manually editing and saving changes to the ``events.json`` file while players are viewing the configuration will cause crashes.
   - Solution: Use the admin command to update the file in real time.
+
+## 🖼 IMAGES
+![Calendar](https://github.com/user-attachments/assets/6ff6fe73-e615-4aa8-9c56-0def3a64cec6)
