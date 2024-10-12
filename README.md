@@ -1,3 +1,5 @@
+![Calendar](https://github.com/user-attachments/assets/6ff6fe73-e615-4aa8-9c56-0def3a64cec6)
+
 # 📆 CALENDARZ
 Adds calendars and customizable events to the game.
 
