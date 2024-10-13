@@ -1,0 +1,11 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/calendarz",
+  "1.21.1": {
+    "1.0.0": "Added player command.\nAdded admin command.\nAdded calendar GUI.\nAdded events.json config\nAdded current-day outline indicator.\nAdded event indicator.\nAdded event tooltip cycle system.\nAdded admin command support to add, remove, and get events.\nAdded admin command support to set the event cycle speed in ticks.\nAdded player command to open the GUI.\nAdded support for weekdays.\nAdded support for leap years.\nAdded support for real calendar layouts.\nAdded single-player, LAN, and multiplayer support.\nAdded script to open calendar GUIs when editing the config file through commands.\nAdded title text of the current year and current month.\nAdded support for more than one event on the same day.",
+    "1.1.0": "Added calendar block\nAdded calendar crafting recipe.\nAdded tags for crafting recipe.\nAdded block assets.\nAdded support for per world config files.\nAdded new admin command to get the mapID map variable.\nRemoved /calendar command."
+  },
+  "promos": {
+    "1.21.1-latest": "1.1.0",
+    "1.21.1-recommended": "1.1.0"
+  }
+}
