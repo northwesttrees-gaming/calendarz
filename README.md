@@ -1,9 +1,9 @@
 ![image](https://github.com/user-attachments/assets/8f4da08f-40ba-4f3d-b53f-d4369e8f3ff8)
 
 # 📆 CALENDARZ
-Introducing Calendarz, a versatile Minecraft mod that brings fully customizable in-game calendars right to your server! With Calendarz, players can easily access a user-friendly GUI using the /calendar command to view multiple events on any given day. While regular players can view events, admins have complete control with the /calendaradmin command, which allows direct configuration management without needing to stop the server.
+Introducing Calendarz, a versatile Minecraft mod that brings fully customizable in-game calendars right to your server! With Calendarz, players can easily craft a user-friendly block that displays the calendar GUI by right-clicking on the block with support for viewing multiple events on any given day. While regular players can view events, admins have complete control with the /calendaradmin command, which allows direct configuration management without needing to stop the server.
 
-Calendarz requires installation on both the client and server, and it works seamlessly across single-player, LAN, and multiplayer setups. Admin commands are logged directly to the console, simplifying troubleshooting and offering the flexibility to manage settings through the console itself. The other mods can also add support for custom events using the admin command, enhancing its versatility.
+Calendarz requires installation on both the client and server, and it works seamlessly across single-player, LAN, and multiplayer setups. Admin commands are logged directly to the console, simplifying troubleshooting and offering the flexibility to manage settings through the console itself. Other mods can also add support for custom events using the admin command, enhancing its versatility.
 
 Managing events is a breeze with the events.json file’s straightforward structure, and even the event tooltip speed can be adjusted through commands or the configuration file.
 
