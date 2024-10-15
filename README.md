@@ -55,11 +55,17 @@ This mod is property of NorthWestTrees (Kieran Martin) and marked as all right's
 - Current day and event icons are overlaid on the calendar.
 - Displays the current month and year at the top of the calendar.
 - Admin commands and messages are logged to the server console.
-- Players are kicked from the Calendar UI to enable real-time configuration changes by admins.
+- Administrators kick players from the Calendar UI to enable real-time configuration changes.
 - Only the current month's calendar view is accessible.
+- Calendar and Thin Wood Stump blocks.
+- Rare randomly generated structures in the forest biome.
+- Per map settings using map ID technology.
+-  A command to get the Map ID to allow other mod creators a way to get the folder name.
 ### 🐞 KNOWN ISSUES
 - Manually editing and saving changes to the ``events.json`` file while players are viewing the configuration will cause crashes.
   - Solution: Use the admin command to update the file in real time.
 
 ## 🖼 IMAGES
 ![Calendar](https://github.com/user-attachments/assets/6ff6fe73-e615-4aa8-9c56-0def3a64cec6)
+![Lost Calendar Structure](https://github.com/user-attachments/assets/9ad5bd8f-a6f5-4c46-a28a-b4f9c3e9449c)
+![Thin Wood Stump Blocks](https://github.com/user-attachments/assets/3f9ac34c-9999-471c-8bd2-cff227ca23aa)
